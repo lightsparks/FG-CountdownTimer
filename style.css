@@ -4,7 +4,7 @@
 
 body {
   margin: auto;
-  margin-top: 200px;
+  margin-top: 100px;
   background-color: #2B2D42;
   margin: auto;
   height: 100vh;
@@ -19,7 +19,7 @@ h2 {
 }
 
 h1 {
-  margin-top: 200px;
+  margin-top: 100px;
   color: #EDF2F4;
   font-size: 45px;
   text-shadow: 2px 2px 5px #000000;
@@ -39,6 +39,6 @@ h2 {
   font-family: 'Source Code Pro', monospace;
   text-align: center;
   color: #EDF2F4;
-  font-size: 80px;
+  font-size: 100px;
   text-shadow: 2px 2px 5px #000000;
 }
